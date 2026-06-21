@@ -3,13 +3,9 @@ uvicorn
 python-multipart
 PyPDF2
 pdfplumber
-spacy
 python-dotenv
 httpx
 pydantic
-scikit-learn
-pandas
 numpy
 SQLAlchemy
-passlib[bcrypt]
 PyJWT
